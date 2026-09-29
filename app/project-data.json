@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "name": "Customer Portal Refresh",
+      "owner": "Alex Morgan",
+      "status": "In progress",
+      "recentActivity": "Account settings wireframes approved by the product team.",
+      "priority": "High priority",
+      "summary": "Make everyday account tasks simpler with a more welcoming, accessible portal."
+    },
+    {
+      "name": "Mobile Checkout",
+      "owner": "Priya Shah",
+      "status": "On track",
+      "recentActivity": "Payment flow passed the latest device compatibility checks.",
+      "priority": "Medium priority",
+      "summary": "Help customers complete purchases with less friction on any screen."
+    },
+    {
+      "name": "Data Quality Initiative",
+      "owner": "Jordan Lee",
+      "status": "Needs attention",
+      "recentActivity": "Two upstream data sources need an owner before integration can proceed.",
+      "priority": "At risk",
+      "summary": "Build a dependable foundation for reporting by bringing key data sources in line."
+    },
+    {
+      "name": "Community Launch Kit",
+      "owner": "Sam Rivera",
+      "status": "Planning",
+      "recentActivity": "Contributor feedback gathered for the first round of templates.",
+      "priority": "Low priority",
+      "summary": "Give community members a friendly, repeatable way to introduce new projects."
+    }
+  ]
+}
